@@ -12,4 +12,4 @@ iii)Run app.js (nodeJs file)<br/>
 iv)For more knowledge see documentation doc.<br/>
 
 
-**Note: Only one assumption while posting author name should be same as username. This was done to to add edit/delete feature to blof.**
+**Note: Only one assumption while posting author name should be same as username. This was done to to add edit/delete feature to blog.**
