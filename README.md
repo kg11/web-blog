@@ -1,5 +1,5 @@
 # web-blog
-I have used html/css for front end, nodeJs for backend ,express framework for routing , mongoDb for databse.<br/>
+**I have used html/css for front end, nodeJs for backend ,express framework for routing , mongoDb for databse.<br/>**
 
 
 Steps to run the application:<br/>
