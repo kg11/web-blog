@@ -1,0 +1,29 @@
+<%include ./partials/header%>
+
+<script type="text/javascript">
+alert("Please make sure that user name and author name should be same");
+</script>
+
+<div class="ui main text container segment">
+    <div class="ui huge header">New Blog</div>
+    <form class="ui form" action="/blogs" method="post">
+        <div class="field">
+            <label>Title</label>
+            <input type="text" name="blog[name]" placeholder="Name">
+        </div>
+        <div class="field">
+            <label>Author</label>
+            <input type="text" name="blog[author]" placeholder="author name and user name should be same">
+        </div>
+        <div class="field">
+            <label>Image Url</label>
+            <input type="text" name="blog[image]" placeholder="image">
+        </div>
+        <div class="field">
+            <label>Body</label>
+            <textarea name="blog[body]"></textarea>
+        </div>
+        <input type="submit">
+    </form>
+</div>
+<%include ./partials/footer%>
