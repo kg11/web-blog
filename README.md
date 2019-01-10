@@ -10,3 +10,6 @@ iii)Run app.js (nodeJs file)<br/>
     node app.js<br/>
     It will start the server then goto http://localhost:8080 the web page will open and all the features u can see how will it work.<br/>
 iv)For more knowledge see documentation doc.<br/>
+
+
+**Note: Only one assumption while posting author name should be same as username. This was done to to add edit/delete feature to blof.**
